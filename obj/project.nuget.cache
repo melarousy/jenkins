@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOnIlAGY2M/Q/0QDMyviHmHxLALEnUW2qBQ+aN3zL8Yuf72MlJQDVmLyU10Tw+jdTIBVYL9PWrE/yJcX/raJug==",
+  "dgSpecHash": "dHMQGoVGUfpzBK0ldP8qlhT3/tIxJuOY3d7rwYQSGFGA/F/V5GvPrr7vkGA9NLrWuC9WIgxluUSQrXKQgB8I1g==",
   "success": true,
-  "projectFilePath": "D:\\Code\\jenkins\\jenkins.csproj",
+  "projectFilePath": "D:\\code\\jenkins\\jenkins.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

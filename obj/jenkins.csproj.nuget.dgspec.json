@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\jenkins\\jenkins.csproj": {}
+    "D:\\code\\jenkins\\jenkins.csproj": {}
   },
   "projects": {
-    "D:\\Code\\jenkins\\jenkins.csproj": {
+    "D:\\code\\jenkins\\jenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\jenkins\\jenkins.csproj",
+        "projectUniqueName": "D:\\code\\jenkins\\jenkins.csproj",
         "projectName": "jenkins",
-        "projectPath": "D:\\Code\\jenkins\\jenkins.csproj",
+        "projectPath": "D:\\code\\jenkins\\jenkins.csproj",
         "packagesPath": "C:\\Users\\Omen\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\jenkins\\obj\\",
+        "outputPath": "D:\\code\\jenkins\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omen\\AppData\\Roaming\\NuGet\\NuGet.Config",
